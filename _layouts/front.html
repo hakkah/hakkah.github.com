@@ -5,4 +5,5 @@ layout: base
 
 {% for post in site.posts limit: 1 %}
 {{ post.content }}
+<span class="date">{{ post.date|date:"%d %b %Y" }}</span>
 {% endfor %}
