@@ -15,7 +15,7 @@ h1, h2, h3 {
 	list-style-type: none;
 	padding: 0;
 	float: left;
-	width: 200px;
+	width: 250px;
 	margin: 0;
 }
 
@@ -24,6 +24,14 @@ h1, h2, h3 {
 }
 
 #content {
-	margin-left: 200px;
+	margin-left: 300px;
 	width: 600px;
+}
+
+#site-title {
+	display: none;
+}
+
+.date {
+	color: #999;
 }

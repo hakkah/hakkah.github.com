@@ -1,8 +1,4 @@
 ---
-layout: default
+layout: front
+title: Hakkah
 ---
-
-Hej hej!
-========
-
-Detta är förstasidan. Ojojoj.
